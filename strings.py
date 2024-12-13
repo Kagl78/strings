@@ -1,6 +1,6 @@
 name='Napoleon'
-print(name[:1])
+print(name[:0])
 print(name[-1])
-print(name[4:8])
+print(len(name))
 print(name[::-1])
-print(name[1:8:2])
+print(name[1:2])
